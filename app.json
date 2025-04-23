@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "fashion",
+    "slug": "fashion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "../Sections/Fashioncloth/cart.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "../Sections/Fashioncloth/eye.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "../Sections/Fashioncloth/eye.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.fashion"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

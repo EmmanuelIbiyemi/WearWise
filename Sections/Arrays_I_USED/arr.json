@@ -1,0 +1,177 @@
+[
+    {
+        "id":1, 
+        "about":"Baggy Jeans Good For flexing",
+        "price":"$220",
+        "discount":"-10%",
+        "disprice":"$198",
+        "image":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":2,
+        "about":"Beach Outfit for Summer Outting",
+        "price":"$120",
+        "discount":"-20%",
+        "disprice":"$96",
+        "image":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":3,
+        "about":"Swagy baggy for cool teen outting",
+        "price":"$310",
+        "discount":"-15%",
+        "disprice":"$263.5",
+        "image":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":4,
+        "about":"Short baggy for Fashion show walk",
+        "price":"$130",
+        "discount":"-30%",
+        "disprice":"$91",
+        "image":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":5,
+        "about":"Shorts for out walking for summer",
+        "price":"$140",
+        "discount":"-25%",
+        "disprice":"$105",
+        "image":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":6,
+        "about":"Short Drip for Dates and Beach",
+        "price":"$150",
+        "discount":"-20%",
+        "disprice":"$120",
+        "image":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    }
+  ,
+
+  // ARRAY FOR FEMALE SECTION
+  
+    {
+        "fid":1,
+        "about":"This is a simple clothe for female",
+        "price":"$120",
+        "discount":"-20%",
+        "fimage":"require('./Sections/Clothes/FemaleClothev.jpeg')"
+    },
+    {
+        "fid":2,
+        "about":"This is a simple clothe for female",
+        "price":"$120",
+        "discount":"-20%",
+        "fimage":"require('./Sections/Clothes/FemaleClothev.jpeg')"
+    },
+    {
+        "fid":3,
+        "about":"This is a simple clothe for female",
+        "price":"$120",
+        "discount":"-20%",
+        "fimage":"require('./Sections/Clothes/FemaleClothev.jpeg')"
+    },
+    {
+        "fid":4,
+        "about":"This is a simple clothe for female",
+        "price":"$120",
+        "discount":"-20%",
+        "fimage":"require('./Sections/Clothes/FemaleClothev.jpeg')"
+    },
+    {
+        "fid":5,
+        "about":"This is a simple clothe for female",
+        "price":"$120",
+        "discount":"-20%",
+        "fimage":"require('./Sections/Clothes/FemaleClothev.jpeg')"
+    }
+  ,
+
+    // ARRAY FOR THE RANDOM SECTION
+
+    {
+        "id":1, 
+        "about":"Baggy Jeans Good For flexing",
+        "price":"$220",
+        "discount":"-10%",
+        "disprice":"$198",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "fid":2,
+        "about":"This is a simple clothe for female",
+        "price":"$358",
+        "discount":"-21%",
+        "disprice":"$282.82",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "fid":3,
+        "about":"This is a simple clothe for female",
+        "price":"$120",
+        "discount":"-20%",
+        "disprice":"$100",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":4,
+        "about":"Beach Outfit for Summer Outting",
+        "price":"$120",
+        "discount":"-20%",
+        "disprice":"$96",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "fid":5,
+        "about":"This is a simple clothe for female",
+        "price":"$600",
+        "discount":"-30%",
+        "disprice":"$420",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "fid":6,
+        "about":"This is a simple clothe for female",
+        "price":"$300",
+        "discount":"-20%",
+        "disprice":"$280",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":7,
+        "about":"Swagy baggy for cool teen outting",
+        "price":"$310",
+        "discount":"-15%",
+        "disprice":"$263.5",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":8,
+        "about":"Short baggy for Fashion show walk",
+        "price":"$130",
+        "discount":"-30%",
+        "disprice":"$91",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":9,
+        "about":"Shorts for out walking for summer",
+        "price":"$140",
+        "discount":"-25%",
+        "disprice":"$105",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    },
+    {
+        "id":10,
+        "about":"Short Drip for Dates and Beach",
+        "price":"$150",
+        "discount":"-20%",
+        "disprice":"$120",
+        "rimage":"require('./Sections/Clothes/MaleClothevi.jpeg')"
+    }
+
+]
+
+//  THE ARRAY ABOVE IS FOR THE WHOLE COLLECTION , MALE , FEMALE I USE THEM FOR 
+//  FOR EASY LOOPING
